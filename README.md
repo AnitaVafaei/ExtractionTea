@@ -90,8 +90,65 @@ Innovative extraction techniques such as SFE, PEF, UAE, and MAE offer significan
 
 ## References
 
-1. Raghunath, S., Sravanthi, B., Gharibzahedi, S. M. T., Koubaa, M., Roohinejad, S., & Mallikarjunan, K. (2023). Processing Technologies for the Extraction of Value-Added Bioactive Compounds from Tea. Food Engineering Reviews, 15(2), 276-308. https://link.springer.com/article/10.1007/s12393-023-09338-2
-2. Comparative study of ultra-sonication and agitation extraction methods for green tea metabolites. (2018). Food Chemistry, 296, 69-77. https://pubmed.ncbi.nlm.nih.gov/29502824/
-3. Innovative Extraction Techniques Using Deep Eutectic Solvents and Analytical Methods for the Isolation and Characterization of Natural Bioactive Compounds from Plant Material. (2020). Journal of Food Biochemistry, 45(1), e13561. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7690858/
-4. Traditional and innovative approaches for the extraction of bioactive compounds from natural sources. (2022). Food Reviews International, 38(7), 1869-1881. https://www.tandfonline.com/doi/full/10.1080/10942912.2022.2074030
-5. Emerging Trends in Green Extraction Techniques for Bioactive Natural Products. (2023). Processes, 11(12), 3444. https://www.mdpi.com/2227-9717/11/12/3444
+
+1. *Advantages and disadvantages of Soxhlet extraction*
+   - https://homework.study.com/explanation/what-are-advantages-and-disadvantages-of-using-the-soxhlet-extraction-technique.html
+
+2. *Reflux extraction and its advantages*
+   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9606084/
+
+3. *Advantages and disadvantages of SFE*
+   - https://www.vaia.com/en-us/textbooks/chemistry/principles-of-instrumental-analysis-7th/capillary-electrophoresis-electrochromatography-and-field-flow-fractionation/q-29-9-list-the-advantages-and-any-disadvantages-of-sfe-comp/
+
+4. *Advantages of Soxhlet extraction*
+   - https://www.hawachfilterpaper.com/what-are-the-advantages-of-soxhlet-extraction-and-general-soaking-extraction/
+
+5. *Reflux extraction overview*
+   - https://media.neliti.com/media/publications/269068-ekstraksi-kayu-artocarpus-lakoocha-penga-2dbcd880.pdf
+
+6. *Advantages of supercritical extraction*
+   - https://www.linkedin.com/pulse/what-advantages-using-supercritical-extraction-technique-judy-zhu
+
+7. *Soxhlet extraction overview*
+   - https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/soxhlet-extraction
+
+8. *Reflux extraction details*
+   - https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_Lab_Techniques_%28Nichols%29/01:_General_Techniques/1.04:_Heating_and_Cooling_Methods/1.4K:_Reflux
+
+9. *SFE advantages and disadvantages*
+   - https://extractionmagazine.com/2018/10/05/supercritical-fluid-extraction-more-pros-than-cons/
+
+10. *Soxhlet extraction details*
+    - https://www.chromatographyonline.com/view/looking-past-understand-future-soxhlet-extraction
+
+11. *Emerging Trends in Green Extraction Techniques for Bioactive Natural Products*
+    - https://www.mdpi.com/2227-9717/11/12/3444
+
+12. *SFE overview*
+    - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6152233/
+
+13. *Soxhlet extraction comparison*
+    - https://www.drawellanalytical.com/a-comparison-of-advantages-and-disadvantages-of-soxhlet-extractor/
+
+14. *Supercritical fluid extraction*
+    - https://en.wikipedia.org/wiki/Supercritical_fluid_extraction
+
+15. *Innovative extraction technologies of bioactive compounds from plant by-products for textile colorants and antimicrobial agents*
+    - https://link.springer.com/article/10.1007/s13399-023-04726-4
+
+16. *Emerging Extraction Techniques for the Recovery of Phytochemicals*
+    - https://www.mdpi.com/journal/applsci/special_issues/Emerging_Extraction_Techniques_for_the_Recovery_of_Phytochemicals
+
+17. *Techniques for extraction of bioactive compounds from plant materials: A review*
+    - https://www.sciencedirect.com/science/article/pii/S0260877413000277
+
+18. *Innovative Technologies for Extraction and Microencapsulation of Bioactives from Plant-Based Food Waste and Their Applications in Functional Food Development*
+    - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7911848/
+
+19. *Techniques for extraction and isolation of natural products*
+    - https://cmjournal.biomedcentral.com/articles/10.1186/s13020-018-0177-x
+20. Raghunath, S., Sravanthi, B., Gharibzahedi, S. M. T., Koubaa, M., Roohinejad, S., & Mallikarjunan, K. (2023). Processing Technologies for the Extraction of Value-Added Bioactive Compounds from Tea. Food Engineering Reviews, 15(2), 276-308. https://link.springer.com/article/10.1007/s12393-023-09338-2
+21. Comparative study of ultra-sonication and agitation extraction methods for green tea metabolites. (2018). Food Chemistry, 296, 69-77. https://pubmed.ncbi.nlm.nih.gov/29502824/
+22. Innovative Extraction Techniques Using Deep Eutectic Solvents and Analytical Methods for the Isolation and Characterization of Natural Bioactive Compounds from Plant Material. (2020). Journal of Food Biochemistry, 45(1), e13561. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7690858/
+23. Traditional and innovative approaches for the extraction of bioactive compounds from natural sources. (2022). Food Reviews International, 38(7), 1869-1881. https://www.tandfonline.com/doi/full/10.1080/10942912.2022.2074030
+24. Emerging Trends in Green Extraction Techniques for Bioactive Natural Products. (2023). Processes, 11(12), 3444. https://www.mdpi.com/2227-9717/11/12/3444
