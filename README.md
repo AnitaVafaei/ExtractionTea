@@ -9,6 +9,19 @@
 Tea (Camellia sinensis) is one of the most widely consumed beverages globally and is rich in bioactive compounds such as catechins, caffeine, and epigallocatechin. These compounds have significant health benefits, including antioxidant, anti-inflammatory, and anti-cancer properties. Traditional extraction methods often fall short in terms of efficiency and environmental impact. This paper aims to compare various innovative extraction techniques for their efficiency in extracting bioactive compounds from tea leaves.
 
 ## Methodology
+| Extraction Method       | Solvents                        | Extraction Time | Advantages                                                                 | Disadvantages                                                                 | References |
+|-------------------------|---------------------------------|-----------------|---------------------------------------------------------------------------|-------------------------------------------------------------------------------|------------|
+| Soxhlet Method          | Organic Solvent (ethanol, methanol, etc.) | Long time        | Can extract substances that are partially soluble; multiple extractions possible; high efficiency | Long extraction time; high solvent consumption; potential thermal degradation; environmental and health concerns due to solvent use | [1][4][7][10][14] |
+| Reflux Extraction       | Aqueous and organic solvents    | Moderate time   | Shorter extraction time; solvent reuse; lower fixed investment | Potential contamination or decomposition of phenolic compounds due to heating | [2][5][8] |
+| SFE                     | Super-critical fluid (CO2)      | Short time      | High efficiency; environmentally friendly; precise control; high-quality extract | High setup cost; requires high pressure; technical knowledge required | [3][6][9][12][15] |
+| MAE                     | Water, organic solvents         | Short time      | Short operation time; lower space, time, and solvent requirements | High energy cost; potential thermal degradation of compounds; sample size considerations | [2][12][19] |
+| UAE                     | Water, aqueous, organic solvents| Short time      | Short operation time; low cost; small solvent volume required | Heat generated may cause phenolic compound decomposition | [2][19] |
+| Maceration              | Water, ethanol, methanol        | Long time       | Simple and inexpensive; suitable for heat-sensitive compounds | Long extraction time; low extraction efficiency | [10][20] |
+| Pressurized Liquid Extraction (PLE) | Water, ethanol, methanol | Short time      | High extraction efficiency; low solvent consumption; fast | Requires specialized equipment; high pressure may degrade some compounds | [6][11][18] |
+| Enzyme-Assisted Extraction (EAE) | Water, buffer solutions | Moderate time   | High specificity; mild conditions; environmentally friendly | High cost of enzymes; potential for enzyme denaturation | [11][16] |
+| Deep Eutectic Solvent Extraction (DES) | Deep eutectic solvents | Short time      | Environmentally friendly; high extraction efficiency; low toxicity | Limited knowledge on long-term effects; potential for high viscosity | [2][17] |
+| Hydrodistillation       | Water                           | Long time       | Suitable for volatile oils; simple setup | High energy consumption; not suitable for non-volatile compounds | [20] |
+| Steam Distillation      | Water                           | Long time       | Effective for essential oils; simple setup | High energy consumption; not suitable for thermolabile compounds | [20] |
 
 ### Extraction Techniques
 
