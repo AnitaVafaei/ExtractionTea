@@ -1,3 +1,7 @@
+https://badgen.net/badge/Extraction/Tea/Blue?icon=instgrame]()
+
+
+
 # ExtractionTea# Comparative Analysis of Innovative Extraction Techniques in the Tea Industry (Bioactive Compounds)
 
 ## Introduction
@@ -64,6 +68,9 @@ The results indicate that Supercritical Fluid Extraction (SFE) yields the highes
 
 Ultrasound-Assisted Extraction (UAE) and Microwave-Assisted Extraction (MAE) also show promising results, with UAE being slightly more efficient in terms of yield and energy consumption. Pressurized Liquid Extraction (PLE) offers a balanced approach but falls short in terms of energy efficiency.
 
+<img alt="Screenshot: 'README.md'" src="https://github.com/AnitaVafaei/ExtractionTea/blob/main/Images/Git1.png?raw=true" width="100%">
+<img alt="Screenshot: 'README.md'" src="https://github.com/AnitaVafaei/ExtractionTea/blob/main/Images/Git2.png?raw=true" width="100%">
+<img alt="Screenshot: 'README.md'" src="https://github.com/AnitaVafaei/ExtractionTea/blob/main/Images/Git3.png?raw=true" width="100%">
 ## Conclusion
 
 Innovative extraction techniques such as SFE, PEF, UAE, and MAE offer significant improvements over traditional methods in terms of yield and efficiency. Each method has its advantages and trade-offs, making the choice of technique dependent on specific industrial needs and sustainability goals.
